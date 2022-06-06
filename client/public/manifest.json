@@ -1,0 +1,20 @@
+{
+  "short_name": "Image Search",
+  "name": "Image Search App",
+  "icons": [
+    {
+      "src": "gallery1.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "gallery2.jpg",
+      "type": "image/jpg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
